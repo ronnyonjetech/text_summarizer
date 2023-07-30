@@ -1,4 +1,6 @@
 # End to end Text-Summarizer-Project
+![text summarizer api](https://github.com/ronnyonjetech/text_summarizer/assets/63746922/6564cfb5-b3f0-4e05-ac50-fdfce84f58c1)
+
 
 ## Workflows
 
